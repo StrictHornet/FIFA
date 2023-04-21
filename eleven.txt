@@ -1,11 +1,11 @@
-Butragueno
-Jarzinho
-Mbappe
-Al Owairan
-Ginola
-Osimhen
-Eto'o 
-Ronaldo 
-R9
-Cruyff
-Palhinha 
+Butragueno, ST
+Jarzinho, RW
+Mbappe, ST
+Al Owairan, CAM
+Ginola, ST
+Osimhen, ST
+Eto'o, ST 
+Ronaldo, ST
+R9, ST
+Cruyff, CF
+Palhinha, CDM
