@@ -3,3 +3,4 @@ Meta
 Strength
 Beast
 Reaction
+Consistency
