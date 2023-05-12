@@ -1,6 +1,9 @@
-Pace
-Meta
-Strength
-Composure
-Reaction
-Consistency
+Pace.
+Meta.
+Strength.
+Composure.
+Reactions.
+Consistency.
+Traits.
+Weakfoot.
+Skill Moves.
