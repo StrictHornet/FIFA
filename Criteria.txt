@@ -7,3 +7,4 @@ Consistency.
 Traits.
 Weakfoot.
 Skill Moves.
+Body Type.
