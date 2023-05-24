@@ -1,6 +1,6 @@
-Butragueno, ST
+Butragueno, ST, Hawk
 Jarzinho, RW
-Mbappe, ST
+Mbappe, ST, Marksman
 Al Owairan, CAM
 Ginola, ST
 Osimhen, ST
@@ -8,4 +8,4 @@ Eto'o, ST
 Ronaldo, ST
 R9, ST
 Cruyff, CF
-Palhinha, CDM
+Palhinha, CDM, Shadow
