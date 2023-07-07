@@ -2,7 +2,7 @@ Butragueno, ST, Hawk
 Jairzinho, RW, Hawk
 Mbappe, ST, Marksman
 Al Owairan, CAM
-Ginola, ST
+Ginola, ST, Hawk
 Osimhen, ST
 Eto'o, ST 
 Ronaldo, ST, Architect
