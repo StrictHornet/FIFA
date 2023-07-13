@@ -3,7 +3,7 @@ Jairzinho, RW, Hawk
 Mbappe, ST, Marksman
 Al Owairan, CAM
 Ginola, ST, Hawk
-Osimhen, ST
+Osimhen, ST, Engine
 Eto'o, ST 
 Ronaldo, ST, Architect
 R9, ST
