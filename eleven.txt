@@ -1,7 +1,7 @@
 Butragueno, ST, Hawk
 Jairzinho, RW, Hawk
 Mbappe, ST, Marksman
-Al Owairan, CAM
+Al Owairan, CAM, Deadeye
 Ginola, ST, Hawk
 Osimhen, ST, Engine
 Eto'o, ST, Hawk
