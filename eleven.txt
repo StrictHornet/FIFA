@@ -7,5 +7,5 @@ Osimhen, ST, Engine
 Eto'o, ST, Hawk
 Ronaldo, ST, Architect
 R9, ST, Engine
-Cruyff, CF
+Cruyff, CF, Hawk
 Palhinha, CDM, Shadow
