@@ -4,6 +4,7 @@ Strength.
 Composure.
 Reactions.
 Traits.
-Weakfoot.
+Weak foot.
 Skill Moves.
 Body Type.
+AcceleRATE type.
