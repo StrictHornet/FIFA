@@ -7,4 +7,5 @@ Traits.
 Weak foot.
 Skill Moves.
 Body Type.
-AcceleRATE type.
+AcceleRATE Type.
+Card Type.
