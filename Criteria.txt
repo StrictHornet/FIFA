@@ -10,3 +10,4 @@ Body Type.
 AcceleRATE Type.
 Card Type.
 Country.
+Playstyle.
