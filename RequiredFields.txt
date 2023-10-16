@@ -12,4 +12,3 @@ Card Type.
 Country.
 Playstyle.
 Gender.
-Ethnicity.
